@@ -27,8 +27,9 @@ import {CloudMusic} from '../../../store/actionCreators'
           return(
            <div className='bs'>
            <ul>
+           <li className='yinyue'>云音乐飙升榜</li>
            {
-             
+            
                 this.state.cloud.map((item)=>{
                   this.state.a+=1
                  return (this.state.a<820&&<li>{item.name}</li>)

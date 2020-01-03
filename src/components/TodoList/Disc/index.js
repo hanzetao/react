@@ -34,7 +34,7 @@ import './index.css';
                 </ul>
               </div> 
               <div className='Hots'>
-                    <div className='song'>
+                    <div className='songs'>
                         <ul>
 
                    

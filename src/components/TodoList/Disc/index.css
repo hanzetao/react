@@ -5,8 +5,16 @@
 }
 .Hots{
     height:150px;
-    margin-left:190px;
+    /* margin-left:190px; */
 }
+.songs{
+    font-weight: bold;
+  list-style: none;
+  float: left;
+  margin-left:-100px;
+  margin-top:40px;
+  /* background-color:rgb(255, 255, 255); */
+  }
 .discdiv{
     display:inline-block;
     height:130px;
@@ -14,7 +22,4 @@
     width:110px;
     margin-left:20px;
     margin-top:20px;
-}
-.disczi{
-
 }

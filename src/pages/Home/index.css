@@ -4,11 +4,29 @@
     margin-left:200px;
     padding-top:50px;
     font-weight: bold;
-    border: 1px solid rgb(138, 45, 45); 
+    /* border: 1px solid rgb(138, 45, 45);  */
+}
+.wang{
+    font-weight: bold;
+    font-size: 23px;
+    color:white;
+}
+.menu{
+    margin-left:300px;
+}
+.boo{
+     margin:auto;
+     width:1028px;
+     background-color: rgb(241, 235, 228);
 }
 .bd{
     font-weight: bold;
     font-size: 18px;
+    margin-left:-120px;
+    width:200px;
+}
+.gedan{
+    margin-left:-110px;
 }
 .gedan div{
     float: left;
@@ -16,15 +34,25 @@
 }
 
 .xg{
-    height:428px;
+    height:400px;
     width:200px;
-    border: 1px solid rgb(138, 45, 45); 
+    /* border: 1px solid rgb(138, 45, 45);  */
+    /* background-color: rgb(255, 255, 255); */
+    background-color: rgb(155, 151, 147);
 }
 .yc{
-    height:428px;
+    height:400px;
     width:200px;
-    border: 1px solid rgb(138, 45, 45); 
+    /* border: 1px solid rgb(138, 45, 45);  */
 }
 ul >li{
     list-style: none;
+}
+.bod{
+    width:700px;
+}
+.link{
+    width:700px;
+    float: left;
+    margin-left:10px;
 }

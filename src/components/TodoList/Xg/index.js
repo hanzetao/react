@@ -27,6 +27,7 @@ import {NewSong} from '../../../store/actionCreators'
           return(
            <div className='xg'>
            <ul>
+           <li className='yinyue'>云音乐新歌榜</li>
            {
              
             this.state.new.map((item)=>{

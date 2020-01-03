@@ -28,7 +28,7 @@ import {OriginalSong} from '../../../store/actionCreators'
            <div className='Yc'>
 
            <ul>
-           <li>云音乐飙升版</li>
+           <li className='yinyue' >云音乐飙升版</li>
            {
             this.state.orignal.map((item)=>{
               // {console.log(item)}
