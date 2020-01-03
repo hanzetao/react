@@ -100,10 +100,10 @@ import './index.css';
             </p>
             <p className="contact s-fc3">
             <span className="a">违法和不良信息举报电话：0571-89853516</span>
-            <span className="b">举报邮箱：</span><a className="alink" href="mailto:ncm5990@163.com">ncm5990@163.com</a>
+            <span className="b">举报邮箱：</span>ncm5990@163.com
             </p>
             <p className="right s-fc3">
-            <span className="sep span">粤B2-20090191-18</span><a  rel="noopener noreferrer" target="_blank" className="alink s-fc3">工业和信息化部备案管理系统网站</a>
+            <span className="sep span">粤B2-20090191-18</span>工业和信息化部备案管理系统网站
             </p>
             </div>
         

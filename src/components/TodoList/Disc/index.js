@@ -37,7 +37,6 @@ import './index.css';
                     <div className='songs'>
                         <ul>
 
-                   
                        {
                           this.state.disc.map((item)=>{
                             return <div className='discdiv'><img  className='discimg' src={item.picUrl} /><div className='disczi'>{item.company}</div></div>
