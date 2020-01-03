@@ -1,0 +1,30 @@
+.lists{
+    height:478px;
+    width:700px;
+    margin-left:200px;
+    padding-top:50px;
+    font-weight: bold;
+    border: 1px solid rgb(138, 45, 45); 
+}
+.bd{
+    font-weight: bold;
+    font-size: 18px;
+}
+.gedan div{
+    float: left;
+    margin-left:10px;
+}
+
+.xg{
+    height:428px;
+    width:200px;
+    border: 1px solid rgb(138, 45, 45); 
+}
+.yc{
+    height:428px;
+    width:200px;
+    border: 1px solid rgb(138, 45, 45); 
+}
+ul >li{
+    list-style: none;
+}
